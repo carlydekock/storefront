@@ -1,4 +1,24 @@
-# Getting Started with Create React App
+# Lab 36 - Application State with Redux
+
+Virtual Store Phase 1: For this assignment, you will be starting the process of creating an e-Commerce storefront using React with Redux, coupled with your live API server.
+
+## Author: Carly Dekock
+
+## GitHub repo [here](https://github.com/carlydekock/storefront)
+
+## Link to PR [here](https://github.com/carlydekock/storefront/pull/1)
+
+## Resources and Collaborators
+
+- Worked at lab table with Jason D, Jason Q, Nick M, and Seid
+- React Redux [docs](https://react-redux.js.org/using-react-redux/connect-mapdispatch)
+- Redux [docs](https://redux.js.org/tutorials/fundamentals/part-3-state-actions-reducers)
+
+## UML
+
+![image](/assets/UML.png)
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
