@@ -18,7 +18,7 @@ Virtual Store Phase 2: Continue work on the e-Commerce storefront, breaking up t
 
 ## UML
 
-![image](/assets/UML.png)
+![image](/assets/UML-lab37.png)
 
 ## Getting Started with Create React App
 
