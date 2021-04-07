@@ -1,12 +1,14 @@
-# Lab 36 - Application State with Redux
+# Lab 37 - Combined Reducers
 
 Virtual Store Phase 1: For this assignment, you will be starting the process of creating an e-Commerce storefront using React with Redux, coupled with your live API server.
+
+Virtual Store Phase 2: Continue work on the e-Commerce storefront, breaking up the store into multiple reducers and sharing functionality/data between components
 
 ## Author: Carly Dekock
 
 ## GitHub repo [here](https://github.com/carlydekock/storefront)
 
-## Link to PR [here](https://github.com/carlydekock/storefront/pull/1)
+## Link to PR [here](https://github.com/carlydekock/storefront/pull/2)
 
 ## Resources and Collaborators
 

@@ -14,7 +14,7 @@ export default function categoriesReducer(state = initialState, action){
     case "INACTIVE":
       return initialState;
     case "ACTIVATE":
-      return {...state, activateCategory: payload.category, activateDescription: payload.description};
+      return {...state, activeCategory: payload.category, activeDescription: payload.description};
     default:
       return state;
   }
