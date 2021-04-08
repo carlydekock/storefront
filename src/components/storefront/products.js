@@ -47,6 +47,9 @@ const ProductViewer = (props) => {
                   <CardContent>
                     <Typography component="p">Description here...</Typography>
                   </CardContent>
+                  <CardContent>
+                    <Typography component="p">In Stock: {product.inStock}</Typography>
+                  </CardContent>
                   <CardActions>
                     <IconButton onClick={() => props.addToCart(product)}>ADD TO CART</IconButton>
                     <IconButton>VIEW DETAILS</IconButton>
