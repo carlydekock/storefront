@@ -6,17 +6,20 @@ Virtual Store Phase 2: Continue work on the e-Commerce storefront, breaking up t
 
 Virtual Store Phase 3: Connect the Virtual Store to an API to retrieve live data from your data source, using thunk to enable asynchronous actions.
 
+Virtual Store Phase 4: Complete work on the Virtual Store by adding detail pages for individual products as well as the the cart checkout page
+
 ## Author: Carly Dekock
 
 ## GitHub repo [here](https://github.com/carlydekock/storefront)
 
-## Link to PR [here](https://github.com/carlydekock/storefront/pull/2)
+## Link to PR [here](https://github.com/carlydekock/storefront/pull/4)
 
 ## Resources and Collaborators
 
 - Worked at lab table with Jason D, Jason Q, Nick M, and Seid
 - React Redux [docs](https://react-redux.js.org/using-react-redux/connect-mapdispatch)
 - Redux [docs](https://redux.js.org/tutorials/fundamentals/part-3-state-actions-reducers)
+- useParams hook [here](https://css-tricks.com/the-hooks-of-react-router/) and [here](https://stackoverflow.com/questions/57444203/get-id-from-url-in-react-js)
 
 ## UML
 
